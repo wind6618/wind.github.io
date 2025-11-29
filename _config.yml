@@ -1,0 +1,13 @@
+title: Single6618's Blog
+description: A clean and simple GitHub Pages blog.
+theme: minima
+
+# 博客基础设置
+author: single6618
+email: your-email@example.com
+
+# 社交
+github_username: wind6618
+
+# 中文支持
+markdown: kramdown
